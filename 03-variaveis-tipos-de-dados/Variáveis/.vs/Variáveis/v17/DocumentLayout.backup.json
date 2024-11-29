@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Vari\u00E1veis\\Program.cs",
               "ToolTip": "C:\\Users\\FabioEizoRodriguezMa\\Documents\\GitHub\\formacao-.net\\03-variaveis-tipos-de-dados\\Vari\u00E1veis\\Vari\u00E1veis\\Program.cs",
               "RelativeToolTip": "Vari\u00E1veis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T16:42:24.133Z",
               "EditorCaption": ""

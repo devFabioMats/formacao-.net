@@ -1,0 +1,7 @@
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\bin\Debug\Condicoes.exe.config
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\bin\Debug\Condicoes.exe
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\bin\Debug\Condicoes.pdb
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.AssemblyReference.cache
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\obj\Debug\Condicoes.exe
+C:\Users\FabioEizoRodriguezMa\Documents\GitHub\formacao-.net\04-condicoes\Condicoes\Condicoes\obj\Debug\Condicoes.pdb

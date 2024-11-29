@@ -10,6 +10,18 @@ namespace Variáveis
     {
         static void Main(string[] args)
         {
+            char caracter = 'a';
+            string frase = "Hello World!";
+            string letra = "a";
+            string letraa = "a";
+            string vazio = "";
+            string numero = "123";
+
+            int num = 123;
+            double num1 = 4.564785214;
+
+            bool verdade = true;
+            bool falso = false;
         }
     }
 }
