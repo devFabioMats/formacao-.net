@@ -1,0 +1,7 @@
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\bin\Debug\Menus.exe.config
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\obj\Debug\Menus.csproj.AssemblyReference.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\obj\Debug\Menus.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\14-criacao-de-metodos\Menus\Menus\obj\Debug\Menus.pdb
