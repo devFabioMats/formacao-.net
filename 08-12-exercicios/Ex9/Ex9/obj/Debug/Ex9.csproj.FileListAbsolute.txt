@@ -1,0 +1,7 @@
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\bin\Debug\Ex9.exe.config
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\bin\Debug\Ex9.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\bin\Debug\Ex9.pdb
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\obj\Debug\Ex9.csproj.AssemblyReference.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\obj\Debug\Ex9.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex9\Ex9\obj\Debug\Ex9.pdb
