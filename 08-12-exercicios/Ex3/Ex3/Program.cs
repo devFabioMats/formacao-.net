@@ -24,8 +24,6 @@ namespace Ex3
 
             Console.WriteLine("A diferença entre os números é: " + dif);
 
-
-
         }
     }
 }
