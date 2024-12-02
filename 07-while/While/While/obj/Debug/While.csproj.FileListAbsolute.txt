@@ -1,0 +1,7 @@
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\bin\Debug\While.exe.config
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\bin\Debug\While.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\bin\Debug\While.pdb
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\obj\Debug\While.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\07-while\While\While\obj\Debug\While.pdb
