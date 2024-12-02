@@ -1,0 +1,7 @@
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\obj\Debug\Ex13.csproj.AssemblyReference.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\obj\Debug\Ex13.exe
+C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex13\Ex13\obj\Debug\Ex13.pdb
