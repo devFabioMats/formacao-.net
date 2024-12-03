@@ -65,6 +65,7 @@ namespace ProjetoLoteria
             else
             {
                 Console.WriteLine("Que pena! O número escolhido não era o premiado");
+                Console.WriteLine("Número premiado: " + numeroPremiado);
             }
 
             Console.ReadKey();
@@ -109,7 +110,5 @@ namespace ProjetoLoteria
         {
 
         }
-
-        
     }
 }
