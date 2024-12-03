@@ -33,6 +33,32 @@ namespace Arrays
             {
                 Console.WriteLine("Nome " + (i + 1) + ": " + nomes[i] + " " + sobrenomes[i]);
             }
+
+            Random rnd = new Random();
+            int[] numeros = new int[50];
+
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                numeros[i] = rnd.Next(1, 100);
+                Console.Write(numeros[i] + "  ");
+            }
+
+            double[] decimais = new double[10];
+            bool[] verdadeirosFalsos = new bool[10];
+
+            Console.WriteLine();
+            Console.WriteLine("--------------------------------------------------------------------------");
+
+            int[,] tabuada = new int[10, 10];
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    tabuada[i, j] = (i + 1) * (j + 1);
+                    Console.Write(tabuada[i, j] + "\t");
+                }
+            }
         }
     }
 }
