@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ExemploFundamentos.Models;
 
 namespace ExemploFundamentos
 {
@@ -10,6 +6,11 @@ namespace ExemploFundamentos
     {
         static void Main(string[] args)
         {
+            Pessoa pessoa1 = new Pessoa();
+
+            pessoa1.Nome = "Fabio";
+            pessoa1.Idade = 21;
+            pessoa1.Apresentar();
         }
     }
 }
