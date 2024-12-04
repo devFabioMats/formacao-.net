@@ -1,7 +1,0 @@
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\bin\Debug\Ex10.exe.config
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\bin\Debug\Ex10.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\bin\Debug\Ex10.pdb
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\obj\Debug\Ex10.csproj.AssemblyReference.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\obj\Debug\Ex10.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex10\Ex10\obj\Debug\Ex10.pdb

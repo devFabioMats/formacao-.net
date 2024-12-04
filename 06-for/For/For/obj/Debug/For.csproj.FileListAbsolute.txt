@@ -1,7 +1,0 @@
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\bin\Debug\For.exe.config
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\bin\Debug\For.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\bin\Debug\For.pdb
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\obj\Debug\For.csproj.AssemblyReference.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\obj\Debug\For.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\06-for\For\For\obj\Debug\For.pdb

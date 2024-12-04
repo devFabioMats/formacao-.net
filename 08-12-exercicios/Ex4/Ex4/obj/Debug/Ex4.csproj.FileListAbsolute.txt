@@ -1,7 +1,0 @@
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\bin\Debug\Ex4.exe.config
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\bin\Debug\Ex4.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\bin\Debug\Ex4.pdb
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\obj\Debug\Ex4.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex4\Ex4\obj\Debug\Ex4.pdb

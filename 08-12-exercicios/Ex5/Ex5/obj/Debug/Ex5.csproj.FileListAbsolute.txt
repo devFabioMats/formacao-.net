@@ -1,7 +1,0 @@
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\bin\Debug\Ex5.exe.config
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\bin\Debug\Ex5.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\bin\Debug\Ex5.pdb
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\obj\Debug\Ex5.exe
-C:\Users\Fabio Mats\Documents\GitHub\formacao-.net\08-12-exercicios\Ex5\Ex5\obj\Debug\Ex5.pdb
