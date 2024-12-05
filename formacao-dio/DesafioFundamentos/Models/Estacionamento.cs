@@ -1,3 +1,5 @@
+using System;
+
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
