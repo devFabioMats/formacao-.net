@@ -1,5 +1,11 @@
-﻿using DesafioFundamentos.Models;
+﻿using System;
 
+namespace DesafioFundamentos.Models
+{ 
+    internal class Program 
+    { 
+        static void Main(string[] args)
+        { 
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
@@ -57,3 +63,6 @@ while (exibirMenu)
 }
 
 Console.WriteLine("O programa se encerrou");
+}
+}
+}
