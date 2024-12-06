@@ -1,4 +1,4 @@
-﻿namespace ModuloAPI.Models
+﻿namespace ModuloAPI.Entities
 {
     public class Contato
     {
