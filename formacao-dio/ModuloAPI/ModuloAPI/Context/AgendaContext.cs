@@ -10,6 +10,6 @@ namespace ModuloAPI.Context
         {
         }
 
-        public DbSet<Contato> Contatos { get; set; }    // classe contato lá do models
+        public DbSet<Contato> Contatos { get; set; }
     }
 }
