@@ -1,4 +1,4 @@
-@ModuloAPI_HostAddress = http://localhost:5003
+@ModuloAPI_HostAddress = http://localhost:5224
 
 GET {{ModuloAPI_HostAddress}}/weatherforecast/
 Accept: application/json
