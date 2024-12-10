@@ -34,7 +34,7 @@ namespace ModuloAPI.Controllers
                 return Ok(contato);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{id}")]   // atualiza um contato
         public IActionResult Atualizar(int id, Contato contato)     // chama o id do contato a ser modificado, chama o json dos dados do contatos a serem modificados
         {
             var contatoBanco = _context.Contatos.Find(id);      // busca o contato no banco de dados
@@ -50,6 +50,20 @@ namespace ModuloAPI.Controllers
             _context.SaveChanges();     // salva as alterações
 
             return Ok(contatoBanco);    // retorna o contato atualizado
+        }
+
+        [HttpDelete("{id}")]    // deleta um contato
+        public IActionResult Deletar(int id)
+        {
+            var contatoBanco = _context.Contatos.Find(id);     // busca o contato no banco de dados
+
+            if (contatoBanco == null)       // se o contato não existir, retorna NotFound
+                return NotFound();
+
+            _context.Contatos.Remove(contatoBanco);       // remove o contato do banco de dados
+            _context.SaveChanges();     // salva as alterações
+
+            return NoContent();        // retorna que não há conteúdo
         }
     }
 }
