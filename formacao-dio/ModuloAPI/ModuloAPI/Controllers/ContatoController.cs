@@ -45,7 +45,6 @@ namespace ModuloAPI.Controllers
                 return Ok(contatos);
         }
 
-
         [HttpPut("{id}")]   // atualiza um contato
         public IActionResult Atualizar(int id, Contato contato)     // chama o id do contato a ser modificado, chama o json dos dados do contatos a serem modificados
         {
