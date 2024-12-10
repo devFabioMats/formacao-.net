@@ -34,6 +34,18 @@ namespace ModuloAPI.Controllers
                 return Ok(contato);
         }
 
+        [HttpGet("ObterPorNome")]
+        public IActionResult ObterPorNome(string nome)
+        {
+            var contatos = _context.Contatos.Where(c => c.Nome.Contains(nome));      // contatos.where, onde, o nome do contato contem o nome passado na requisição
+
+            if (contatos == null)
+                return NotFound();
+            else
+                return Ok(contatos);
+        }
+
+
         [HttpPut("{id}")]   // atualiza um contato
         public IActionResult Atualizar(int id, Contato contato)     // chama o id do contato a ser modificado, chama o json dos dados do contatos a serem modificados
         {
