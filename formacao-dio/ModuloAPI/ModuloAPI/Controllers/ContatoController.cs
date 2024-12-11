@@ -20,7 +20,7 @@ namespace ModuloAPI.Controllers
         {
             _context.Add(contato);
             _context.SaveChanges();
-            return CreatedAtAction(nameof(ObterPorId), new { id = contato.Id }, contato);   // 
+            return CreatedAtAction(nameof(ObterPorId), new { id = contato.Id }, contato);   //
         }
 
         [HttpGet("{id}")]
@@ -43,6 +43,13 @@ namespace ModuloAPI.Controllers
                 return NotFound();
             else
                 return Ok(contatos);
+        }
+
+        [HttpGet("ObterTodos")]
+        public IActionResult ObterTodos()
+        {
+            var contatos = _context.Contatos.ToList();
+            return Ok(contatos);
         }
 
         [HttpPut("{id}")]   // atualiza um contato
