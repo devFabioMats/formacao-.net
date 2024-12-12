@@ -1,62 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-      crossorigin="anonymous"
-    />
-    <title>Learning Fetch API</title>
-  </head>
 
-  <body>
-    <h3>Add New Colaborator</h3>
-    <br />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learning Fetch API</title>
+</head>
 
-    <label for="name">Name</label>
-    <input type="text" id="name" />
+<body>
+  <h3>Add New Colaborator</h3>
+  <br>
 
-    <br />
+  <label for="name">Name</label>
+  <input type="text" id="name">
+  <br>
 
-    <label for="phone">Phone Number</label>
-    <input type="text" id="phone" />
+  <label for="phone">Phone Number</label>
+  <input type="text" id="phone">
+  <br>
 
-    <div class="container">
-      <div class="row-mt-3">
-        <div class="col-md-6">
-          <h3>Add New Colaborator</h3>
-          <form action="" class="add-post-form">
-            <div class="form-group">
-              <label for="name">Name</label>
-              <input type="text" class="form-control" id="name-value" />
-            </div>
-            <div class="form-group">
-              <label for="phone-number">Phone Number</label>
-              <input type="text" class="form-control" id="phone-value" />
-            </div>
-            <div class="form-group">
-              <input
-                id="active-value"
-                type="checkbox"
-                name="status"
-                value="true"
-                checked
-              />
-              Active
-            </div>
-            <button type="submit" class="btn btn-primary">
-              Add Colaborator
-            </button>
-          </form>
-        </div>
-      </div>
+  <input type="checkbox" id="active" name="status" value="true" checked> Active
+  <br>
 
-      <div class="posts-list row"></div>
-    </div>
+  <button type="submit" class="btn btn-primary">Add Colaborator</button>
+  <br><br><br>
 
-    <script src="./main.js"></script>
-  </body>
+  <h3>Colaborators</h3>
+  <br><br>
+
+  <span id="colaborators"></span>
+  <br><br>
+
+  <script src="./main.js"></script>
+</body>
+
 </html>
