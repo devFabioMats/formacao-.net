@@ -22,14 +22,44 @@
   <input type="checkbox" id="active" name="status" value="true" checked> Active
   <br>
 
-  <button type="submit" class="btn btn-primary">Add Colaborator</button>
-  <br><br><br>
+  <button onclick="postColaborator()">Add Colaborator</button>
+  <br><br>
 
   <h3>Colaborators</h3>
+
+  <button onclick="getAllColaborators();">Load All Colaborators</button>
   <br><br>
 
-  <span id="colaborators"></span>
+  <input type="number" id="idColaborator">
+  <button onclick="getColaborator()">Get Colaborator by Id</button>
   <br><br>
+
+  <h3>Alter Colaborator</h3>
+
+  <label for="name">Colaborator ID:</label>
+  <input type="number" id="idColaboratorToAlter">
+  <br>
+
+  <label for="name">Name:</label>
+  <input type="text" id="name">
+  <br>
+
+  <label for="phone">Phone Number:</label>
+  <input type="text" id="phone">
+  <br>
+
+  <input type="checkbox" id="active" name="status" value="true" checked> Active
+  <br>
+
+  <button onclick="putColaborator()">Alter Colaborator</button>
+
+  <br><br>
+
+  <h3>Delete Colaborator</h3>
+
+  <label for="name">Colaborator ID:</label>
+  <input type="number" id="idColaboratorToDelete">
+  <button onclick="deleteColaborator()">Delete Colaborator</button>
 
   <script src="./main.js"></script>
 </body>
